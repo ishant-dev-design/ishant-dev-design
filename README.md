@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-My name is Ishant Kumar. I am currently a student at VIT Bhopal.
+My name is Ishant Kumar. \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
 I am a highly passionate Graphics and UX/UI Designer.
 I like to give my best to any work that is given to me.
 My preference of designs includes modern, brutalism, minimalism and glass morphism.
