@@ -1,6 +1,9 @@
-# 👋 Hello, I'm Ishant! 
+<h2 align="center">
+  # 👋 Hello, I'm Ishant! 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/ishant-dev-design">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Developer;Front%20End%20Specialist;Passionate%20Coder;Always%20Learning%20New%20Things&center=true&width=380&height=45">
   </a>
@@ -90,10 +93,7 @@ Explore my hobbies section to find out! 🎨
 
 ---
 <!-- Intro -->
-<h2 align="center">
-  Welcome to Ishant Kumar's World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
+
 
 
 
