@@ -32,19 +32,17 @@ When I'm not coding, I enjoy exploring creative hobbies, gaming, and spending ti
 
 <div align="center">
   <a href="https://github.com/ishant-dev-design">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ishant-dev-design&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishant-dev-design&layout=compact&langs_count=7&theme=dark"/>
+    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=ishant-dev-design&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishant-dev-design&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/ishant-dev-design">
-    <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishant-dev-design&theme=dark"/>
-    <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ishant-dev-design&theme=dark"/>
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishant-dev-design&theme=dark"/>
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ishant-dev-design&theme=dark"/>
   </a>
 </div>
-
-
 
 ---
 
