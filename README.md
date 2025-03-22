@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]! 
+# 👋 Hello, I'm Ishant! 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ishant-dev-design&color=blue)
 ![Followers](https://img.shields.io/github/followers/ishant-dev-design?style=social)
@@ -39,8 +39,8 @@ When I'm not coding, I enjoy exploring creative hobbies, gaming, and spending ti
 
 <div align="center">
   <a href="https://github.com/ishant-dev-design">
-    <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishant-dev-design&theme=radical"/>
-    <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ishant-dev-design&theme=radical"/>
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishant-dev-design&theme=radical"/>
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ishant-dev-design&theme=radical"/>
   </a>
 </div>
 
