@@ -51,9 +51,25 @@ Explore my hobbies section to find out! 🎨
 
 ## 📬 Connect with Me
 
-- 📧 [Email Me](mailto:ishant.devdesign@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
+<div align="center">
+
+<a href="mailto:ishant.devdesign@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+</a>
+
+<a href="https://linkedin.com/in/yourprofile">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+</a>
+
+<a href="https://twitter.com/yourhandle">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Profile" />
+</a>
+
+<a href="https://ishant-dev-design.github.io/portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+</a>
+
+</div>
 
 ---
 
