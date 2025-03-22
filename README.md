@@ -27,16 +27,6 @@ When I'm not coding, I enjoy exploring creative hobbies, gaming, and spending ti
 
 ---
 
-## 📚 My Projects
-
-### 🚀 Featured Projects
-
-- 🎨 **[Awesome Portfolio](https://github.com/ishant-dev-design/portfolio)** — Showcasing my work, blogs, and more.
-- 🛠️ **[Blog CMS](https://github.com/ishant-dev-design/blog-cms)** — A minimal CMS for publishing content.
-- 🎮 **[Game Hub](https://github.com/ishant-dev-design/game-hub)** — Platform to explore popular games.
-
----
-
 ## 🚀 Languages & Tools
 
 ![JavaScript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
