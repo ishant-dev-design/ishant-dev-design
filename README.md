@@ -30,17 +30,17 @@ When I'm not coding, I enjoy exploring creative hobbies, gaming, and spending ti
 
 ## 📊 GitHub Stats
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<div align="center">
   <a href="https://github.com/ishant-dev-design">
-    <img style="height: auto; width: 49%; min-width: 300px;" src="https://github-readme-stats.vercel.app/api?username=ishant-dev-design&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img style="height: auto; width: 49%; min-width: 300px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishant-dev-design&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ishant-dev-design&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishant-dev-design&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<div align="center">
   <a href="https://github.com/ishant-dev-design">
-    <img style="height: auto; width: 49%; min-width: 300px;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishant-dev-design&theme=dark"/>
-    <img style="height: auto; width: 49%; min-width: 300px;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ishant-dev-design&theme=dark"/>
+    <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishant-dev-design&theme=dark"/>
+    <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ishant-dev-design&theme=dark"/>
   </a>
 </div>
 
