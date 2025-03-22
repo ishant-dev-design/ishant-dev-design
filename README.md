@@ -1,6 +1,4 @@
-#  Hello, I'm Ishant! 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-
+# 👋 Hello, I'm Ishant! 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ishant-dev-design&color=blue)
 ![Followers](https://img.shields.io/github/followers/ishant-dev-design?style=social)
