@@ -79,7 +79,7 @@ Explore my hobbies section to find out! 🎨
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Profile" />
 </a>
 
-<a href="https://ishant-dev-design.github.io/portfolio">
+<a href="https://ishant-dev-design.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
 </a>
 
